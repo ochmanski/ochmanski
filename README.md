@@ -1,5 +1,5 @@
-<div style='text-align: center'>
-  <img src='./og.png' alt='' height='300px' />
+<div align='center'>
+  <img src='./og.png' alt='' height='250px' />
 </div>
 
 <!--
