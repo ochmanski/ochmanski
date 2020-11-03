@@ -1,5 +1,7 @@
 <div align='center'>
-  <img src='./og.png' alt='' height='250px' />
+  <a href='https://och.dev' target="_blank" rel="noopener noreferrer" title="ASTONISHING WEB EXPERIENCES">
+    <img src='./og.png' alt='ASTONISHING WEB EXPERIENCES' height='250px' />
+  </a>
 </div>
 
 <!--
