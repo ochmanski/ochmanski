@@ -1,6 +1,6 @@
 <div align='center'>
   <a href='https://och.dev' target="_blank" rel="noopener noreferrer" title="Zero bullshit based development">
-    <img src='./og.jpg' alt='Zero bullshit based development' />
+    <img src='./og-new.jpg' alt='Zero bullshit based development' />
   </a>
 </div>
 
